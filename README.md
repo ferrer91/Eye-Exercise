@@ -10,9 +10,10 @@ You only need to open the index.html file on your browser.
 When the app is running, you must move the cursor througt the display and the eyes will follow it. 
 
 ## Contributing
-
+In the future, it must tu close the eyes when the mouse is clicked.
 
 ## Credits
+I would like to thank my teachers and mentors for the knowledge they have passed on to me.
 
 ## License
 MIT License
