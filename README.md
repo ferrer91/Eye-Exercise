@@ -1,19 +1,14 @@
-# Eye-Exercise
+# Eye Exercise
 
-## Description
-It was one my first homeworks. For made it I use a simple html and css files managed by one simple js function that make it all changes. It is about two eyes moving follow the cursor.
+## Description:
+In this project the mouse movement event is used to update the position of the "eye" element displayed on the page. The two eyes will follow the pointer througth the display with a syncronous movement. 
 
-## Installation
-You only need to open the index.html file on your browser.
+## How to run:
+You only need to clone my repositorie, no need install any dependency extra, just open it in your browser and move the cursor througth the display.
+  
+## Road Map to the future:
+In the future I want to make that two eyes close when is click down and open when click up the mouse.
 
-## Usage
-When the app is running, you must move the cursor througt the display and the eyes will follow it. 
-
-## Contributing
-In the future, it must tu close the eyes when the mouse is clicked.
-
-## Credits
-I would like to thank my teachers and mentors for the knowledge they have passed on to me.
-
-## License
-MIT License
+## License:
+This projects was developed under MIT License: A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+  
